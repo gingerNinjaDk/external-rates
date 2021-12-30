@@ -1,0 +1,23 @@
+{
+  "name": "external-rates",
+  "version": "1.0.0",
+  "description": "Rates provided externally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingerNinjaDk/external-rates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gingerNinjaDk/external-rates/issues"
+  },
+  "homepage": "https://github.com/gingerNinjaDk/external-rates#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
