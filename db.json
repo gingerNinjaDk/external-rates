@@ -1,0 +1,18 @@
+{
+  "rates": [
+    {
+      "id": "1",
+      "covername": "Breakdown",
+      "rate": 112.34
+    },
+    {
+      "id": "2",
+      "covername": "Assistance",
+      "rate": 34.30
+    },{
+      "id": "3",
+      "covername": "Legal",
+      "rate": 13.40
+    }
+  ]
+}
