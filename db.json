@@ -1,18 +1,18 @@
 {
   "rates": [
     {
-      "id": "1",
-      "covername": "Breakdown",
-      "rate": 112.34
+      "id": "CLASSIC",
+      "covername": "Classic",
+      "rate": 0
     },
     {
-      "id": "2",
-      "covername": "Assistance",
-      "rate": 34.30
+      "id": "PRO",
+      "covername": "Professional",
+      "rate": 16.50
     },{
-      "id": "3",
-      "covername": "Legal",
-      "rate": 13.40
+      "id": "OTHER",
+      "covername": "Other cover",
+      "rate": 99
     }
   ]
 }
