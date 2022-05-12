@@ -1,14 +1,14 @@
 {
   "rates": [
     {
-      "id": "CLASSIC",
-      "covername": "Classic",
-      "rate": 0
+      "id": "BLD",
+      "covername": "Buildings",
+      "rate": 0.0045660000
     },
     {
-      "id": "PRO",
-      "covername": "Professional",
-      "rate": 16.50
+      "id": "CONT",
+      "covername": "Contents",
+      "rate": 0.045600
     },{
       "id": "OTHER",
       "covername": "Other cover",
