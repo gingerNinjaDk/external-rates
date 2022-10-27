@@ -1,18 +1,8 @@
 {
-  "rates": [
-    {
-      "id": "BLD",
-      "covername": "Buildings",
-      "rate": 0.0045660000
-    },
-    {
-      "id": "CONT",
-      "covername": "Contents",
-      "rate": 0.06250
-    },{
-      "id": "OTHER",
-      "covername": "Other cover",
-      "rate": 99
-    }
-  ]
+    "rates": [{
+        "id": "TRAVEL_BASE",
+        "covername": "Base premiums",
+        "europeRate": 341,
+        "worldRate": 969
+    }]
 }
